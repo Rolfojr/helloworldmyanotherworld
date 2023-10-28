@@ -1,2 +1,3 @@
-# helloworldmyanotherworld
-bandalan
+print(helloworldmyanotherworld
+bandalan)
+
